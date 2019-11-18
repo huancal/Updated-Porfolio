@@ -332,7 +332,7 @@ header {
 
 /* === Splasg Header Style === */
 #home .full-img {
-	background: url(../images/splash-img.jpg) no-repeat center center fixed;
+	background: url(../images/mainbackground.jpeg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -519,16 +519,10 @@ header {
 }
 
 .download-resume.parallax-image {
-	background-image: url(../images/download-resume.jpg);
+	background-image: url(../images/background\ image.jpeg);
 }
 
-.recognitions.parallax-image {
-	background-image: url(../images/recognitions.jpg);
-}
 
-.milestones-bg.parallax-image {
-	background-image: url(../images/milestones-bg.jpg);
-}
 
 .parallax-area .page-overlay {
 	position: absolute;
@@ -542,9 +536,6 @@ header {
 /* === End === */
 
 /* === About Section === */
-.author-desk {
-	background: url(../images/prllx.jpg) no-repeat center center scroll;
-}
 
 .author-info {
 	background: #373737;
